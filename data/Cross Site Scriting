@@ -1,0 +1,5 @@
+XSS is ....
+
+<script>alert("carefull")
+
+</script>
